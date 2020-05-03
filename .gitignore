@@ -1,0 +1,7 @@
+Titanic_Model.ipynb
+.DS_Store
+.ipynb_checkpoints
+*.csv
+!train.csv
+!test.csv
+
