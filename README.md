@@ -25,9 +25,10 @@ __The notebook covers the following important topics__
     
 
 
-* __`Error Analysis to prevent overfitting`__: 
-    1. Perform error analysis on both `test data` and `dev data` to understand where the model fall short
-    2. Important findings include: Age are bucketed into too many buckets which was not able to capture overall trend. Cabin has too many group with low amount of data.
+* __`Error Analysis: Discussion on Bias vs Variance`__: 
+    1. Why the model has high bias and variance
+    2. Perform error analysis on both `test data` and `dev data` to understand where the model fall short
+    3. Important findings include: Age are bucketed into too many buckets which was not able to capture overall trend. Cabin has too many group with low amount of data.
 
 
 * __`Revisit Feature Engineering and Model Tuning`__:
